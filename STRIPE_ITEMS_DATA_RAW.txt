@@ -1,0 +1,182 @@
+	
+1------------------------------------------------------------------- 
+NAME: Black and Light Gray Road Bicycle
+PRICE: 1,299.99
+CATEGORY: bestSeller
+
+SHORT DESCRIPTION:Modern semi-pro road bike with dropbar handle and black rims.
+
+LONG DESCRIPTION: This black and light gray road bike is perfect for those looking for a modern semi-pro option. It features a dropbar handle and black rims for a sleek look. Whether you're training for a race or just enjoying a leisurely ride, this bike is a great choice.
+
+2------------------------------------------------------------------- 
+NAME: White Lightweight Bicycle
+PRICE: 799.99
+CATEGORY: bestSeller
+
+SHORT DESCRIPTION:Minimalistic white bike with flat raiser bar.
+
+LONG DESCRIPTION: This white bike is a modern and classic option for those who prefer a minimalistic style. It features a lightweight frame and a flat raiser bar for a comfortable ride. Perfect for commuters or weekend cyclists.
+
+3------------------------------------------------------------------- 
+NAME: Dark Gray and Black Racing Bicycle
+PRICE: 2,999.99
+CATEGORY: topRated
+
+SHORT DESCRIPTION:Professional racing bike with high-end technology and best materials.
+
+LONG DESCRIPTION: This racing bike is a high-end option stacked with the latest technology and the best materials. It features a professional design with a super lightweight frame. Perfect for those who want the best in performance and style.
+
+4------------------------------------------------------------------- 
+NAME: Vintage White Road Bicycle
+PRICE: 899.99
+CATEGORY: newArrival
+
+SHORT DESCRIPTION:Lightweight vintage bike with cruiser bar and 80s style.
+
+LONG DESCRIPTION: This vintage road bike is perfect for those who prefer a classic 80s style. It features a lightweight frame, a cruiser bar, and a minimalistic design. Whether you're cruising around town or going for a leisurely ride, this bike is a great choice.
+
+
+
+5------------------------------------------------------------------- 
+NAME: Tricolor Vintage Road Bicycle
+PRICE: 1,499.99
+CATEGORY: newArrival
+
+SHORT DESCRIPTION:Vintage road bike with bull horn bar and stylish tricolor design.
+
+LONG DESCRIPTION: This vintage road bike is a stylish option with a tricolor design and a vintage bull horn bar. It features a lightweight frame and a minimalistic design. Perfect for those who want a classic look with modern performance.
+
+6------------------------------------------------------------------- 
+NAME: Modern Racing Bicycle
+PRICE: 1,799.99
+CATEGORY: 
+Semi-pro racing bike with drop bar handlebar and dark colors with saturated accents.
+SHORT DESCRIPTION:
+This modern racing LONG DESCRIPTION: bike is a semi-pro option with good quality and a medium price point. It features a drop bar handlebar and a sleek design with dark colors and saturated accents. Perfect for those who want a high-performance bike without breaking the bank.
+
+7------------------------------------------------------------------- 
+NAME: Mountain Bicycle Flatbar
+PRICE: 499.99
+CATEGORY: bestSeller
+
+SHORT DESCRIPTION:Speed-o-meter, Heavy, Utilitarian, Gravel Dirt Road
+
+LONG DESCRIPTION: 
+
+8------------------------------------------------------------------- 
+NAME: Super lightweight Modern City Bicycle
+PRICE: 1,899.99
+CATEGORY: newArrival
+
+SHORT DESCRIPTION:The Mountain Bicycle Flatbar is the perfect choice for those who need a bike that can handle any terrain. With its sturdy frame and speed-o-meter, you'll be able to ride through gravel dirt roads with ease. The flatbar design makes it utilitarian, so you can attach all sorts of accessories to it. It's affordable too, making it a great choice for anyone on a budget.
+    
+LONG DESCRIPTION: 
+
+
+9------------------------------------------------------------------- 
+NAME: Dutch Bicycle with Basket
+PRICE: 1,299.99
+CATEGORY: -	
+Light Colours, Cruiser Handlebar, City Friendly
+SHORT DESCRIPTION:
+The Dutch Bicycle wLONG DESCRIPTION: ith Basket is a classic design that's been updated for the modern city. The light colors and cruiser handlebar make it city friendly, and the basket is perfect for carrying your groceries or other items. It's a basic bike, but it's also stylish, making it a great choice for anyone who wants to ride in style without breaking the bank.
+
+
+1-------------------------------------------------------------------0 
+NAME: Folding Bicycle with Basket
+PRICE: 1,099.99
+CATEGORY: newArrival
+
+SHORT DESCRIPTION:Orange-Light Grey, Flat Raiser Handlebar, Built for City
+
+LONG DESCRIPTION: The Folding Bicycle with Basket is the perfect choice for anyone who needs a bike that's easy to take on public transportation. Its orange-light grey colour scheme is eye-catching, and the flat raiser handlebar makes it easy to navigate through city streets. It's built specifically for the city, and the basket is perfect for carrying your belongings. Best of all, it's affordable, making it a great choice for anyone on a budget.
+
+1-------------------------------------------------------------------1 
+NAME: Universal Mountain Bicycle
+PRICE: 799.99
+CATEGORY: topRated
+
+SHORT DESCRIPTION:Dark Colour, Flat Handlebar
+
+LONG DESCRIPTION: The Universal Mountain Bicycle is a great choice for anyone who wants a bike that can handle any terrain. Its dark colour and flat handlebar give it a classic look, and its universal design means that it can be used by anyone. It's affordable too, making it a great choice for anyone on a budget.
+
+1-------------------------------------------------------------------2 
+NAME: Downhill Pro Bicycle
+PRICE: 3,699.99
+CATEGORY: topRated
+
+SHORT DESCRIPTION:Golden-Black, Flat Handlebar, Shock Absorber
+
+LONG DESCRIPTION: The Downhill Pro Bicycle is the ultimate choice for anyone who wants the best technology in their bike. Its golden-black color scheme is eye-catching, and the flat handlebar gives it a classic look. It's superlightweight, making it perfect for downhill racing, and the shock absorber ensures a smooth ride. It's very expensive, but it's worth it for anyone who wants the best of the best.
+
+1-------------------------------------------------------------------3 
+NAME: Universal Mountain Bicycle
+PRICE: 999.99
+CATEGORY: bestSeller
+
+SHORT DESCRIPTION:Red colour, cheap, universal, mountain bicycle with flat handlebar
+
+LONG DESCRIPTION: This mountain bicycle is perfect for all-purpose riding. It features a flat handlebar for a comfortable, upright riding position, and it comes in a striking red colour. Despite its low price, this bicycle is made to last and can handle a variety of terrains.
+
+1-------------------------------------------------------------------4 
+NAME: Cruiser Bicycle with Basket
+PRICE: 1,299.99
+CATEGORY: topRated
+
+SHORT DESCRIPTION:White silver colour, cruiser bicycle, with basket on the cruiser handlebar, fashionable. Basic, but stylish
+
+LONG DESCRIPTION: This cruiser bicycle is perfect for relaxed rides around town. Its white silver colour and basket on the handlebar make it fashionable and practical. It's a basic but stylish option for those who want a simple yet reliable bicycle.
+
+1-------------------------------------------------------------------5 
+NAME: Vintage Peugeot Road Bicycle
+PRICE: 1,999.99
+CATEGORY: topRated
+
+SHORT DESCRIPTION:Vintage classy Peugeot silver with orange accents, black wheels, vintage road bicycle from 70s, vintage bull horn bar, very stylish, minimalistic lightweight
+
+LONG DESCRIPTION: This vintage Peugeot road bicycle from the 70s is a real treasure. Its silver frame with orange accents, black wheels, and vintage bull horn bar make it a stylish and unique option. Despite its minimalistic design, this bicycle is lightweight and made to last. It's an expensive but worthwhile investment for collectors and vintage bicycle enthusiasts.
+
+1-------------------------------------------------------------------6 
+NAME: Minimalistic Racing Bicycle
+PRICE: 1,699.99
+CATEGORY: -	
+
+SHORT DESCRIPTION:Super minimalistic racing bicycle, cheap, white, steel construction, very basic, just bicycle, drop bar handlebar
+
+LONG DESCRIPTION: This super minimalistic racing bicycle is perfect for those who prioritize function over form. Its white steel frame and drop bar handlebar give it a sleek look, while its basic construction keeps it affordable. Despite its simplicity, this bicycle is made to perform and can handle high speeds and long distances.
+
+1-------------------------------------------------------------------7 
+NAME: Classic Touring Bicycle
+PRICE: 299.99
+CATEGORY: -	
+
+SHORT DESCRIPTION:Classic touring bicycle, very traditional, vintage, old-school, very basic, red color, well-known technology, reliable. 
+
+LONG DESCRIPTION: This classic touring bicycle is a reliable option for those who value tradition and simplicity. Its red colour and old-school design give it a timeless look, while its well-known technology ensures its reliability. Despite its basic construction, this bicycle can handle long rides and heavy loads. And the best part? It's cheap!
+
+1-------------------------------------------------------------------8 
+NAME: Classic Touring Bicycle
+PRICE: 199.99
+CATEGORY: -	
+
+SHORT DESCRIPTION:Classic touring bicycle, very traditional, vintage, old-school, very basic, blue colour, cheap, just for shop showcase
+
+LONG DESCRIPTION: This classic touring bicycle is a true showcase of vintage design. Its blue colour and old-school construction make it a timeless piece. However, it's a basic model that's not meant for serious riding. It's a great option for shop owners who want to display a classic bicycle without breaking the bank.
+
+1-------------------------------------------------------------------9 
+NAME: Children's Basic Bicycle
+PRICE: 249.99
+CATEGORY: topRated
+
+SHORT DESCRIPTION:Cheap, good for first bicycle
+
+LONG DESCRIPTION: This children's basic bicycle is perfect for those who are just starting to learn how to ride. It's affordable and has all the basic features you need to get started.
+
+2-------------------------------------------------------------------0 
+NAME: Vintage Racing Bicycle
+PRICE: 2,249.99
+CATEGORY: bestSeller
+
+SHORT DESCRIPTION:Stylish, lightweight
+
+LONG DESCRIPTION: If you're looking for a bicycle that combines style and performance, this vintage racing bicycle is the perfect choice. With its dark colours and silver accents, bull horn bar, and lightweight frame, this bicycle is sure to turn heads wherever you go.
