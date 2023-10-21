@@ -1,5 +1,6 @@
 "use strict";
 const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
+const clientUrl = require("../../../../config/clientUrl");
 /**
  * order controller
  */
@@ -29,8 +30,8 @@ module.exports = createCoreController("api::order.order", ({ strapi }) => ({
         })
       );
       const session = await stripe.checkout.sessions.create({
-        success_url: "http://127.0.0.1:5173/checkout/success",
-        cancel_url: "http://127.0.0.1:5173/",
+        success_url: `${clientUrl}/checkout/success`,
+        cancel_url: `${clientUrl}/`,
         customer_email: email,
         line_items: lineItems,
         mode: "payment",
