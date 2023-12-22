@@ -66,6 +66,7 @@ $RECYCLE.BIN/
 ############################
 
 .tmp
+.tmp_backup
 *.log
 *.sql
 *.sqlite
@@ -80,7 +81,7 @@ $RECYCLE.BIN/
 ssl
 .idea
 nbproject
-public/uploads/*
+# public/uploads/*
 !public/uploads/.gitkeep
 
 ############################
@@ -93,6 +94,7 @@ pids
 logs
 results
 node_modules
+
 .node_history
 
 ############################
@@ -112,6 +114,8 @@ exports
 dist
 build
 .strapi-updater.json
+package-lock.json
 
 STRIPE_ACCESS.txt
 config/IGNORE_plugins.js
+config/clientUrl.js

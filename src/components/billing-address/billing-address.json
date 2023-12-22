@@ -1,0 +1,41 @@
+{
+  "collectionName": "components_billing_address_billing_addresses",
+  "info": {
+    "displayName": "billingAddress",
+    "icon": "gate"
+  },
+  "options": {},
+  "attributes": {
+    "firstName": {
+      "type": "string",
+      "required": true
+    },
+    "lastName": {
+      "type": "string",
+      "required": true
+    },
+    "country": {
+      "type": "string",
+      "required": true
+    },
+    "buildingNumber": {
+      "type": "string",
+      "required": true
+    },
+    "street1": {
+      "type": "string",
+      "required": true
+    },
+    "street2": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string",
+      "required": true
+    },
+    "postCode": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

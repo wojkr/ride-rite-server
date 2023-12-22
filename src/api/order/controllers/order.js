@@ -9,7 +9,12 @@ const { createCoreController } = require("@strapi/strapi").factories;
 
 module.exports = createCoreController("api::order.order", ({ strapi }) => ({
   async create(ctx) {
-    const { products, userName, email } = ctx.request.body;
+    const {
+      products = {},
+      fullName = "",
+      userId = null,
+      email = "WRONG@MAIL.com",
+    } = ctx.request.body;
     try {
       //formatting products
       const lineItems = await Promise.all(
@@ -30,17 +35,23 @@ module.exports = createCoreController("api::order.order", ({ strapi }) => ({
         })
       );
       const session = await stripe.checkout.sessions.create({
-        success_url: `${clientUrl}/checkout/success`,
-        cancel_url: `${clientUrl}/`,
+        success_url: `${clientUrl}checkout/success`,
+        cancel_url: `${clientUrl}`,
         customer_email: email,
         line_items: lineItems,
         mode: "payment",
         payment_method_types: ["card"],
       });
 
-      await strapi
-        .service("api::order.order")
-        .create({ data: { userName, products, stripeSessionId: session.id } });
+      await strapi.service("api::order.order").create({
+        data: {
+          fullName,
+          email,
+          user: userId,
+          products,
+          stripeSessionId: session.id,
+        },
+      });
       return { id: session.id };
     } catch (e) {
       ctx.response.status = 500;

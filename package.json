@@ -4,9 +4,12 @@
   "version": "0.1.0",
   "description": "A Strapi application",
   "scripts": {
+    "postinstall": "cp -r patch/strapi/plugin-users-permissions/server/controllers/auth.js patch/strapi/plugin-users-permissions/server/controllers/user.js node_modules/@strapi/plugin-users-permissions/server/controllers; cp -r patch/strapi/plugin-users-permissions/server/services/user.js node_modules/@strapi/plugin-users-permissions/server/services",
     "develop": "strapi develop",
     "start": "strapi start",
-    "build": "strapi build",
+    "init-build": "npm i; strapi build",
+    "build": "npm run init-build; npm rebuild",
+    "rebuild": "npm rebuild better-sqlite3",
     "strapi": "strapi"
   },
   "dependencies": {
@@ -23,7 +26,7 @@
     "uuid": "5055d885-7f4a-458b-8bb0-26f0d0ba49e5"
   },
   "engines": {
-    "node": ">=16.0.0 <=20.x.x",
+    "node": ">=16.0.0 <=19.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
